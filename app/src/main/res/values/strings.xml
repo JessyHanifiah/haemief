@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">apphamief</string>
+    <string name="login">Login</string>
+    <string name="name">Name</string>
+    <string name="nim">NIM</string>
+    <string name="password">Password</string>
+    <string name="not_registered">Not Registered?</string>
+    <string name="register">Register</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="already_registered">Already Registered?</string>
+    <string name="welcome_user">Welcome User</string>
+    <string name="senin">Kominkraf dan PPM</string>
+    <string name="selasa">PKM dan HUAL</string>
+    <string name="rabu">PKWU, MBA dan Keagamaan</string>
+    <string name="kamis">HR dan SOSMAS</string>
+    <string name="jumat">ADM dan PP</string>
+    <string name="hari_senin">Senin</string>
+    <string name="hari_selasa">Selasa</string>
+    <string name="hari_rabu">Rabu</string>
+    <string name="hari_kamis">Kamis</string>
+    <string name="hari_jumat">Jumat</string>
+</resources>
